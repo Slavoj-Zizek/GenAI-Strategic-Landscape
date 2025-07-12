@@ -661,4 +661,4 @@ Dario Amodeiの思想は、彼自身の執筆した論文やエッセイに強�
     *"価値アラインメント問題の整理が秀逸"* と2022年Interview with IEEE Spectrum。[[IEEE](https://spectrum.ieee.org/dario-amodei-interview)].
   - **『Permutation City』by Greg Egan**  
     SF小説。Amodeiは"意識のコピーが社会に及ぼす影響を考えさせられた"とTwitter Q&A 2021で回答。
-  
+ 
